@@ -397,7 +397,6 @@ btnClose.addEventListener('click', function (e) {
     containerApp.style.opacity = 0;
 
     labelWelcome.textContent = 'Account closed';
-    containerApp.style.opacity = 0;
   }
 
   inputClosePin.value = inputCloseUsername.value = '';

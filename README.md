@@ -1,5 +1,5 @@
 # Fake-Bank
-This is a web page that simulates a bank account. I made it following a course of Udemy of Jonas Schmedtmann about Javascript.
+This is a web page that simulates a bank account.
 
 In the page you can find 4 accounts:
 
